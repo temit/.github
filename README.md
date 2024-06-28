@@ -1,2 +1,1 @@
-# .github
-My Intro
+# My Intro
