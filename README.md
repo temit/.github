@@ -1,7 +1,7 @@
 # My Intro
 
-## Spring boot
 ## Fineract/MifosX
+## Spring boot
 ## Qt
 ## Flutter
 
